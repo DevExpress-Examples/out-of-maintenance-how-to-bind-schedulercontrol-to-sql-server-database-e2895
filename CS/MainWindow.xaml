@@ -1,8 +1,8 @@
-﻿<Window x:Class="SchedulerCarsSQLServerWpf.MainWindow"
+<Window x:Class="SchedulerCarsSQLServerWpf.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dxsch="http://schemas.devexpress.com/winfx/2008/xaml/scheduler"
-        xmlns:dxschcore="clr-namespace:DevExpress.XtraScheduler;assembly=DevExpress.XtraScheduler.v11.1.Core"        
+        xmlns:dxschcore="clr-namespace:DevExpress.XtraScheduler;assembly=DevExpress.XtraScheduler.v13.1.Core"        
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <dxsch:SchedulerControl Name="schedulerControl1">
